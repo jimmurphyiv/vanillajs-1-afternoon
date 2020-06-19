@@ -330,7 +330,7 @@ function play(clickedId) {
     alert("Cat's game, there is no winner");
   }
 }
-
+ 8 
 ```
 
 </details>
